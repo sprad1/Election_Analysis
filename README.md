@@ -45,6 +45,7 @@ Based on the analsis and image displayed above:
 
 ## Summary 
 
+Modifying the script in order to include the voter turnout by county and the candidate results will be a great resource in the election audit of the local congressional election in Colorado. From the results and image above, without doing much research, one will be able to tell who exactly won and which county had the largest voter turnout. As this script is versatile, if there was any other type of election, we would be able to use it with some modifications. For example, in order to use the script for a federal election such as the Presidential election, county would be modified to state so that data for each state will be calculated which is helpful in determining the electoral votes. Another example of how the script can be modified for other elections or even the congressional election in Colorado is if we wanted to determine exactly what percentge of each county voted for each candidate by adding an if-statement to the code.
 
 
 
