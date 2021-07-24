@@ -13,6 +13,7 @@ A Colorado Board of Election employee has given you the following tasks to compl
 
 ## Results
 
+![election_analysis_txt](https://user-images.githubusercontent.com/86751774/126880030-b872cd23-c004-40ca-981c-ed0663bb4cf8.png)
 
 The analysis of the election shows that:
 
