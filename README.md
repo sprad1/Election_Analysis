@@ -9,12 +9,13 @@ A Colorado Board of Election employee has given you the following tasks to compl
 4. Calculate the percentage o votes each candidate won.
 5. Deterine the winner of the election based on popular vote.
 
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.8.8, Visual Studio Code, 1.58.2
 
-## Summary
-The analysis of the election show that:
+
+## Results
+
+
+The analysis of the election shows that:
+
 - There were "x" votes case in the election.
 - The candidates were:
   - Candidate 1
@@ -31,3 +32,8 @@ The analysis of the election show that:
 ## Challenge Overview
 
 ## Challenge Summary 
+
+
+## Resources
+- Data Source: election_results.csv
+- Software: Python 3.8.8, Visual Studio Code, 1.58.2
